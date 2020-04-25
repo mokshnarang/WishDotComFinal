@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+customer {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+ td,th {
+  border: 2px solid #ddd;
+  padding: 8px;
+}
+
+
+th {
+  padding-top: 2px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
